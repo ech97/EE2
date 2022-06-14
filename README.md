@@ -1,4 +1,4 @@
-# 학생 졸음 감독 프로그램
+# 학생 관리 프로그램
 > Yolov4와 눈깜빡임감지 CNN 모델을 TensorRT로 변환하여 JetsonNX Board 상에서 구동
 
 
